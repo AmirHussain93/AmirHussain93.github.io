@@ -1,0 +1,13 @@
+export const types = {
+
+    // get Users
+    GET_USERS: "GET_USERS",
+    GET_USERS_SUCCESS: "GET_USERS_SUCCESS",
+    GET_USERS_ERROR: "GET_USERS_ERROR",
+
+    // get userdetails
+    GET_USER_DETAIL: "GET_USER_DETAIL",
+    GET_USER_DETAIL_SUCCESS: "GET_USER_DETAIL_SUCCESS",
+    GET_USER_DETAIL_ERROR: "GET_USER_DETAIL_ERROR"
+    
+}
